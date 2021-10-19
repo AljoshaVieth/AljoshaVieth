@@ -1,5 +1,8 @@
 ###  Hi, I'm Aljosha 👋🏻
 There are many Github profiles in this world, but this one is my very own.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljoshavieth&layout=compact)
+
 #### :man_student: I am currently studying computer science in media at Furtwangen University. For a better overview, I have outsourced all projects that were created during my studies to an organisation. You can find it [here](https://github.com/aljosha-hfu).
 <!--
 **AljoshaVieth/AljoshaVieth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
