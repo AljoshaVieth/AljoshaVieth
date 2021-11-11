@@ -38,6 +38,7 @@ For a better overview, I have outsourced some projects that were created during 
 ![image](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![image](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Footer](https://user-images.githubusercontent.com/12802765/141317780-0475c120-e780-4c61-a369-39d6bc25a307.png)
 
 
 
