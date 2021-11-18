@@ -16,6 +16,14 @@ For a better overview, I have outsourced some projects that were created during 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+
+![Footer](https://user-images.githubusercontent.com/12802765/141317780-0475c120-e780-4c61-a369-39d6bc25a307.png)
+
+
+
+<!--
+
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -39,11 +47,6 @@ For a better overview, I have outsourced some projects that were created during 
 
 
 
-![Footer](https://user-images.githubusercontent.com/12802765/141317780-0475c120-e780-4c61-a369-39d6bc25a307.png)
-
-
-
-<!--
 **AljoshaVieth/AljoshaVieth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
