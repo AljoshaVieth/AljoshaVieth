@@ -6,10 +6,11 @@ There are many Github profiles in this world, but this one is my very own.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljoshavieth&layout=compact) 
 
+(Just the public ones, otherwise here would be much less javascript and much more java)
+
 I am currently studying computer science at Furtwangen University. 
 For a better overview, I have outsourced some projects that were created during my studies to an organisation. You can find it [here](https://github.com/aljosha-hfu).
 ![Divider](https://user-images.githubusercontent.com/12802765/141317037-a7a8e5d4-37ed-4492-a821-7e6d9ba4f856.png)
-
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
