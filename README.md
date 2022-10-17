@@ -4,8 +4,7 @@
 ###  Hi, I'm Aljosha 👋🏻
 There are many Github profiles in this world, but this one is my very own.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljoshavieth&layout=compact) 
-
+![Top Langs](https://githubstats.aj-v.de/api/top-langs/?username=aljoshavieth&layout=compact&langs_count=8) 
 (Just the public ones, otherwise here would be much less javascript and much more java)
 
 I am currently studying computer science at Furtwangen University. 
