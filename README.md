@@ -5,7 +5,6 @@
 There are many Github profiles in this world, but this one is my very own.
 
 ![Top Langs](https://githubstats.aj-v.de/api/top-langs/?username=aljoshavieth&layout=compact&langs_count=8) 
-(Just the public ones, otherwise here would be much less javascript and much more java)
 
 I am currently studying computer science at Furtwangen University. 
 For a better overview, I have outsourced some projects that were created during my studies to an organisation. You can find it [here](https://github.com/aljosha-hfu).
