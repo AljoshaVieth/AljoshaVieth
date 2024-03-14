@@ -3,9 +3,9 @@
 
 ###  Hi, I'm Aljosha 👋🏻
 There are many Github profiles in this world, but this one is my very own.
-
+<!--
 ![Top Langs](https://githubstats.aj-v.de/api/top-langs/?username=aljoshavieth&layout=compact&langs_count=8&exclude_repo=github-readme-stats) 
-
+-->
 I completed a Master's degree in Computer Science at Furtwangen University.
 For a better overview, I have outsourced some projects that were created during my studies to an organisation. You can find it [here](https://github.com/aljosha-hfu).
 ![Divider](https://user-images.githubusercontent.com/12802765/141317037-a7a8e5d4-37ed-4492-a821-7e6d9ba4f856.png)
@@ -16,9 +16,9 @@ For a better overview, I have outsourced some projects that were created during 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<!--
+
 ![Footer](https://user-images.githubusercontent.com/12802765/141317780-0475c120-e780-4c61-a369-39d6bc25a307.png)
--->
+
 
 
 <!--
